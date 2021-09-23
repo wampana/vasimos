@@ -31,6 +31,11 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Nunito", sans-serif;
 }
 
+.centerabout {
+border: 5px solid #f4f5f4;
+text-align: center;
+}
+
 .aboutpage{width: 200px;
   height: 300px;
 object-fit: contain;}
